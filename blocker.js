@@ -1,5 +1,5 @@
-// Your API access key -- update this to match your account! (see post for details)
-const X_FORM_KEY = "YOUR API TOKEN HERE"; // ACCOUNT-SPECIFIC!! OVERRIDE THIS (and be sure to keep the quotes!)
+// Your API access key -- update this to match your account, or override it with your API token! (see post for details)
+// const X_FORM_KEY = "YOUR API TOKEN HERE";
 
 /* ---- do not modify below this line! but feel free to take a look :-) ---- */
 
